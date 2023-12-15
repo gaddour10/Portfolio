@@ -1,0 +1,49 @@
+
+    @media (min-width: 668px) {
+      .adjusted_titles {
+        font-size: 3rem;
+
+      }
+
+      #nav {
+        height: 20vh;
+
+      }
+      #contact_title{
+        font-size: 200%;
+      }
+      
+
+
+    }
+   
+
+    @media (min-width:1024px) {
+      .adjusted_titles {
+        font-size: 400%;
+      }
+      #nav {
+        height: 40vh;
+
+      }
+
+    }
+
+    * {
+      color: white;
+    }
+
+    body {
+      background: linear-gradient(to right, #09203F, #537895);
+
+    }
+
+    #section div {
+      border: 1px solid black;
+    }
+
+    label {
+      color: black;
+    }
+    
+ 
